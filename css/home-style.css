@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img1 {
+  max-width: 240%;
+  max-height:100%;
+padding-bottom: 10px;
+}
+
+.text1 {
+  font-size: 15px;
+  padding-left: 20px;
+text-align: start;
+}
+
+.img2 {
+  max-width: 250%;
+  max-height:100%;
+  padding-bottom: 10px;
+}
+
+.text2 {
+  font-size: 15px;
+  padding-left: 20px;
+text-align: start;
+}
